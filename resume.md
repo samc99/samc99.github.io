@@ -31,8 +31,7 @@ _Department of Industrial and Systems Engineering_
 ## Education
 #### University of Washington
 (2017-2021)
-Major: Geography 
-Minor: Informatics
+Geography Major, Informatics Minor
 
 
 
