@@ -7,11 +7,15 @@ LinkedIn: https://www.linkedin.com/in/samchao568/
 
 I am a third-year Geography student who is interested in various fields such as mental health, health care, and childhood education by inventing new ways to utilize mapping technology for users.
 
+> Like a bridge connecting person to person, technology is a great means for spreading kindness.
+
 ## Experience
 
-#### VR Meditation Research for Rheumatoid Arthritis Research Member
+#### VR Meditation for Rheumatoid Arthritis Research Member
 (October 2019 - Present)
 _Department of Industrial and Systems Engineering_
+[Research Website][]
+
 
 * Conduct feasibility analysis based on VR headset usage data and participant interviews
 * Assist project leader by transcibing and coding participant interviews
@@ -25,6 +29,7 @@ _Department of Industrial and Systems Engineering_
 
 #### Starbucks Supply Chain Database Project Member
 (July - August 2019)
+_UW iSchool_
 *  Conducted research on Blockchain and Internet of Things in relation to Starbucks' Supply Chain Management
 *  Populated tables with foreign keys, and stored procedures, in the SQL database
 
@@ -34,6 +39,6 @@ _Department of Industrial and Systems Engineering_
 Geography Major, Informatics Minor
 
 
-
+[Research Website]: https://sites.uw.edu/xying21/research/
 
 [Prototype]: https://www.figma.com/proto/ngRclWUoZ2zw63XahF1jZI/Mental-Map-Sketches?node-id=9%3A3&scaling=scale-down
