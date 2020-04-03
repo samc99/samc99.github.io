@@ -1,110 +1,32 @@
 # Sam Chao
 
-samc99@uw.edu
+Email: samc99@uw.edu
+Linkedin: https://www.linkedin.com/in/samchao568/
 
-https://www.linkedin.com/in/samchao568/
-
-# Summary
+## Summary
 
 I am a third-year Geography student who is interested in various fields such as mental health, health care, and childhood education by inventing new ways to utilize mapping technology for users.
 
-# Work Experience
+## Experience
 
-## University Name 1 (City, State)
+#### VR Meditation Research for Rheumatoid Arthritis
+**Research Member** (October 2019 - Present)
+_Department of Industrial and Systems Engineering_
 
-* [University 1][] description, particularly if not well-known.*
+* Conduct feasibility analysis based on VR headset usage data and participant interviews
+* Assist project leader by transcibing and coding participant interviews
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+#### Moments Map
+**Co-founder** (October 2019 - Present)
+[Prototype][]
+* Develop interactive maps and social media that fosters a supportive community and enables students to find mental health resources at UW
+* Conduct user survey and research on current obstacles for receiving mental health support
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
-=======
-# Sam Chao
-
-samc99@uw.edu
-
-http://www.example.com
-
-http://www.linkedin.com/in/yourname
-
-# Summary
-
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
-
-# Work Experience (only last 10 years)
-
-## University Name 1 (City, State)
-
-* [University 1][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+#### Starbucks Supply Chain Database
+**Project Member** (July - August 2019)
+*  Conducted research on Blockchain and Internet of Things in relation to Starbucks' Supply Chain Management
+*  Populated tables with foreign keys, and stored procedures, in the SQL database
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
->>>>>>> 17b3b7bf2d9da0c2cf2617000867345db255f143
+[Prototype]: https://www.figma.com/proto/ngRclWUoZ2zw63XahF1jZI/Mental-Map-Sketches?node-id=9%3A3&scaling=scale-down
