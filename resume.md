@@ -2,15 +2,13 @@
 
 samc99@uw.edu
 
-http://www.example.com
-
-http://www.linkedin.com/in/yourname
+https://www.linkedin.com/in/samchao568/
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+I am a third-year Geography student who is interested in various fields such as mental health, health care, and childhood education by inventing new ways to utilize mapping technology for users.
 
-# Work Experience (only last 10 years)
+# Work Experience
 
 ## University Name 1 (City, State)
 
