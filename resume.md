@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sam Chao
 
 samc99@uw.edu
