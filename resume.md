@@ -28,7 +28,12 @@ _Department of Industrial and Systems Engineering_
 *  Conducted research on Blockchain and Internet of Things in relation to Starbucks' Supply Chain Management
 *  Populated tables with foreign keys, and stored procedures, in the SQL database
 
-## education
+## Education
+#### University of Washington
+(2017-2021)
+Major: Geography 
+Minor: Informatics
+
 
 
 
