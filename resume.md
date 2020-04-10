@@ -42,3 +42,5 @@ Geography Major, Informatics Minor
 [Research Website]: https://sites.uw.edu/xying21/research/
 
 [Prototype]: https://www.figma.com/proto/ngRclWUoZ2zw63XahF1jZI/Mental-Map-Sketches?node-id=9%3A3&scaling=scale-down
+
+![corona](/assets/corona_4stnogeje.png)
