@@ -48,7 +48,7 @@ This is their most current roster right now.
 
 ## Highly Anticipated Games
 | Date | Game | Time |
-| ----- | ----- | ----- | 
+| ---- | ---- | ---- | 
 | 10/19 | Lakers vs. Warriors | 7pm PST | 
 | 10/22 | Lakers vs. Suns | 7pm PST | 
 | 12/25| Lakers vs. Nets | 5pm PST | 
