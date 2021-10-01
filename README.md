@@ -1,1 +1,2 @@
-## please visit [samc99.github.io/wiki](samc99.github.io/wiki)
+## please visit [https://samc99.github.io/wiki](https://samc99.github.io/wiki)
+
